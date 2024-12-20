@@ -12,8 +12,8 @@ Analyze and generate insights from a dataset to aid decision-making processes fo
 4. **Reporting:** Summarized findings in a concise and actionable report.  
 
 ## Tools and Technologies  
-- **Data Cleaning and Analysis:** SQL, Google Sheets, Microsoft Excel.  
-- **Visualization:** Tableau.  
+- **Data Cleaning and Analysis:** SQL, Google Sheets, Microsoft Excel  
+- **Visualization:** Tableau  
 
 ## Key Insights  
 - Gained hands-on experience in the end-to-end data analysis process, including data preparation, visualization, and presentation.  
